@@ -1,3 +1,7 @@
+// Software to run on a TI MSP430 Microcontroller for a Motion Tracking Fan
+// Created by Dillon McCardell
+
+
 #include <msp430.h> 
 
 void delay_ms(int msecs); // Declare function created below
